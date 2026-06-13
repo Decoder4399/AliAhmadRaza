@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=320&text=Ali%20Ahmad%20Raza&subtitle=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&animation=fadeIn&fontColor=58A6FF&reversal=false&rotation=0&section=header&desc=Cloud%20Automation%20%7C%20Infrastructure%20as%20Code%20%7C%20CI%2FCD%20%7C%20Container%20Orchestration%20%7C%20Platform%20Engineering&descAlignY=68&descAlignX=50)](https://github.com/Decoder4399)
+[![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=240&section=header&text=Ali%20Ahmad%20Raza&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20AWS%20%7C%20Terraform%20%7C%20Kubernetes&descColor=ffffff&descAlignY=62&descAlignX=50)](https://github.com/Decoder4399)
 
 # 👋 Hello, I'm Ali Ahmad Raza
 
